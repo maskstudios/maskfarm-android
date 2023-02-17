@@ -35,7 +35,7 @@
 
 ## Download
 
-You can [DOWNLOAD](https://github.com/maskstudios/maskfarm-android/releases/download/AutoFarm/Mask.Farm.apk) the latest installable version of Growtopia Auto Farm [MASK FARM] for Windows.
+You can [DOWNLOAD](https://github.com/maskstudios/maskfarm-android/releases/download/AutoFarm/Mask.Farm.apk) the latest installable version of Growtopia Auto Farm [MASK FARM] for Android.
 
 ## How To Use
 > Just a open and Launch Growtopia Button. (Click the image below for the tutorial video.)
